@@ -11,7 +11,7 @@ const educationItems = [
     title: "Department of Computer",
     subtitle: "Jamalpur Government Technical School and College",
     period: "SSC Level",
-    result: "GPA: 4.93/5.00",
+    result: "GPA: 4.92/5.00",
   },
   {
     level: "Junior School Certificate",
