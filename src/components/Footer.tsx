@@ -60,7 +60,7 @@ export default function Footer() {
         : "Hello Seratul Alim Khan,\n\nI would like to discuss a project with you.",
     );
 
-    window.location.href = `mailto:hello@khanshaheb.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:seratul.alim@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -129,8 +129,8 @@ export default function Footer() {
             <ul className="space-y-4 text-muted mb-5 md:mb-8">
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-brand shrink-0" />
-                <a href="mailto:hello@khanshaheb.com" className="hover:text-brand transition-colors">
-                  hello@khanshaheb.com
+                <a href="mailto:seratul.alim@gmail.com" className="hover:text-brand transition-colors">
+                  seratul.alim@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">

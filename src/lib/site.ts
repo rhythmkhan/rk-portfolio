@@ -6,7 +6,7 @@ export const siteConfig = {
   defaultDescription:
     "Seratul Alim Khan is a Bangladesh-based AI systems architect, LLM solutions engineer, and full-stack developer building automation, chatbots, and modern web products.",
   defaultImage: "/seratul.png",
-  email: "hello@khanshaheb.com",
+  email: "seratul.alim@gmail.com",
   phone: "+8801978304389",
   addressLocality: "Tangail",
   addressCountry: "BD",
