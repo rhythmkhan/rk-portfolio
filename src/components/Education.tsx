@@ -4,7 +4,7 @@ const educationItems = [
     title: "Computer Science & Technology",
     subtitle: "Tangail Polytechnic Institute, Tangail",
     period: "13 March 2023 - 2027",
-    result: "Expected CGPA: 4.50+",
+    result: "Expected CGPA: 3.60+",
   },
   {
     level: "Secondary School Certificate",
